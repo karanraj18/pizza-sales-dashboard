@@ -10,6 +10,7 @@ An interactive dashboard for analyzing pizza sales data using Python, Pandas, My
 
 ## 🧰 Tech Stack
 
-- Python (Pandas, Matplotlib/Seaborn)
+- Python (Pandas)
+- MySQL 
 - Power BI for dashboarding
 - Excel/CSV for raw data
